@@ -1,4 +1,4 @@
-package me.study.modernjava.ch00;
+package me.study.modernjava.ch00_introductory;
 
 /**
  * 다음 조건을 만족하면 First class citizen(일급 시민, 일급 객체) 이라고 함
